@@ -1,0 +1,2 @@
+# Push-Button-ROS-Servo-Control-Project
+In this Project folder, there are 5 ino code files, you may opt for a suitable one. Code1 when push button the servo goes from 0° to 180°. Code2 when push button the servo goes from either from 0° to 180° or from 180° to 0°. Code3 when push button pressed AND keep pressed the servo goes from 0° to 180°. Code4 Combined the servo objects as servo control with push button via ROS Serial. Code5 Similar to Code4 but the logic is bit different in ROS Serial
